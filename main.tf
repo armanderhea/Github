@@ -1,1 +1,3 @@
-port:8080
+
+port:808
+t2.medium 
